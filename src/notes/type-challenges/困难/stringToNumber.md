@@ -1,0 +1,15 @@
+---
+title: ➖ StringToNumber
+createTime: 2022/12/01 07:45:48
+author: 李嘉明
+permalink: /type-challenges/hard/string-to-number/
+---
+
+::: info 题目
+Github: []()
+
+```ts
+
+```
+
+:::
